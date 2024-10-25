@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Rachit Kumar
+# 👋 Hey! I'm Rachit Kumar
 
-**Software Engineer | Fullstack Developer | Tech Enthusiast**
+**Everything Developer**
 
-Welcome to my GitHub! I’m a developer with a love for creating impactful applications and exploring the edges of technology. Currently studying Computer Science at Shiv Nadar University and Data Science at IIT Madras, I'm building projects in everything from fullstack web dev to machine learning.
+Welcome to my GitHub! I’m a developer with a love for creating. I have worked on diverse projects including low level programming and embedded systems, plug and play javascript libraries, scalable backend architectures and implementing CNNs to monitor crop health, among other things.
 
 ---
 
@@ -53,4 +53,3 @@ Welcome to my GitHub! I’m a developer with a love for creating impactful appli
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/rachitkumar205)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:therachitkumar@gmail.com)
 
----

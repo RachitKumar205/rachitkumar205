@@ -1,8 +1,8 @@
-# 👋 Hey! I'm Rachit Kumar
+# Rachit Kumar
 
 **Everything Developer**
 
-Welcome to my GitHub! I’m a developer with a love for creating. I have worked on diverse projects including low level programming and embedded systems, plug and play javascript libraries, scalable backend architectures and implementing CNNs to monitor crop health, among other things.
+Dev creating for the love of the game.
 
 ---
 
@@ -49,7 +49,7 @@ Welcome to my GitHub! I’m a developer with a love for creating. I have worked 
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-kumar-7826361b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/therachitkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/rachitkumar205)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:therachitkumar@gmail.com)
 

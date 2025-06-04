@@ -50,6 +50,6 @@ Dev creating for the love of the game.
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/therachitkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/rachitkumar205)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://en.wikipedia.org/wiki/Recursion)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:therachitkumar@gmail.com)
 

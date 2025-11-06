@@ -1,8 +1,6 @@
 # Rachit Kumar
 
-**Everything Developer**
-
-Dev creating for the love of the game.
+I build fast systems.
 
 ---
 
